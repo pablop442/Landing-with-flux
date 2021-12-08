@@ -5,7 +5,7 @@ import React from "react";
 import { Parallax } from "react-parallax";
 
 //Import Images
-import discover from "./img/discoverTheWorldBlue.jpg";
+import discover from "../../../../img/discoverTheWorldBlue.jpg";
 
 const ParallaxContainer = () => (
 	<div className="container">

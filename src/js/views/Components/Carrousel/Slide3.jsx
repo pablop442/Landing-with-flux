@@ -5,7 +5,7 @@ import React from "react";
 import PropTypes from "prop-types";
 
 //Import Images
-import Venecia from "./img/Venecia.jpg";
+import Venecia from "../../../../img/Venecia.jpg";
 
 const SlideThree = props => {
 	return (

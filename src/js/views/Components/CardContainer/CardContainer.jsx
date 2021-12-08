@@ -2,8 +2,9 @@
 import React from "react";
 
 //Import Component
-import SpecialOffers from "./SpecialOffers.jsx";
-import BestDestinations from "./BestDestinations.jsx";
+
+import BestDestinations from "../BestDestinations.jsx";
+import SpecialOffers from "../SpecialOffers.jsx";
 
 const CardContainer = () => {
 	return (

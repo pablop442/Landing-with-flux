@@ -5,7 +5,7 @@ import React from "react";
 import { FcLike } from "react-icons/fc";
 
 //Import Images
-import BrooklynBridge from "./img/BrooklynBridge.jpg";
+import BrooklynBridge from "../../../../img/BrooklynBridge.jpg";
 
 const BlogCard = () => {
 	return (
