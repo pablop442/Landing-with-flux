@@ -5,7 +5,7 @@ import React from "react";
 import PropTypes from "prop-types";
 
 //Import Images
-import Maldives from "./img/Maldives.jpg";
+import Maldives from "../../../../img/Maldives.jpg";
 
 const SlideOne = props => {
 	return (
