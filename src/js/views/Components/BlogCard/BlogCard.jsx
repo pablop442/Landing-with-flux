@@ -2,6 +2,7 @@
 import React from "react";
 
 //Import styles
+import "./BlogCard.scss";
 import { FcLike } from "react-icons/fc";
 
 //Import Images

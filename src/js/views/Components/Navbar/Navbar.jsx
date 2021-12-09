@@ -1,6 +1,9 @@
 //Import React
 import React from "react";
 
+//Import Style
+import "./Navbar.scss";
+
 const Navbar = () => {
 	return (
 		<nav className="navbar navbar-expand-lg navbar-dark bg-primary">

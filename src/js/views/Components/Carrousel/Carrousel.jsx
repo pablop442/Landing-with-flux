@@ -1,5 +1,9 @@
 // Import React
 import React from "react";
+
+//Import Style
+import "./Carrousel.scss";
+
 //Import Components
 import SlideOne from "./Slide1.jsx";
 import SlideTwo from "./Slide2.jsx";

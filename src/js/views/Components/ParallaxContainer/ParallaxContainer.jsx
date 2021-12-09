@@ -1,6 +1,9 @@
 //Import React
 import React from "react";
 
+//Import Style
+import "./ParallaxContainer.scss";
+
 //Import Parallax
 import { Parallax } from "react-parallax";
 
